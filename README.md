@@ -3,11 +3,9 @@
 I'm Henry, and I love creating logical systems that can help us (somewhat imperfectly) model and display phenomena. Some of my recent projects include:
 
 - `\lcdb-observing-strategy`: I wasn't sure how many observing nights to ask for, so... I did a statistical analysis!
-- `\henryzimme.github.io`: I store my favorite writing, my astrophysics research, some cool 3d demos in java, books I've read, and more on my personal website, hosted with github pages and cloudflare! Find more at [henryzimmerman.net](https://henryzimmerman.net)
-- `\asteroid-observer`: I had some gaps in my data, so I designed a tool that helps you fill in the gaps in your time-series data, specifically designed for asteroid observing.
 - `\andoverecon`: I created a website for the economics club I lead. Learn more about what we do at [andoverecon.org](https://andoverecon.org)
-
-P. S. Cool sim I made of a Cepheid I'm studying: 
+- `\asteroid-observer`: I had some gaps in my data, so I designed a tool that helps you fill in the gaps in your time-series data, specifically designed for asteroid observing.
+- `\henryzimme.github.io`: I store my favorite writing, my astrophysics research, some cool 3d demos in java, books I've read, and more on my personal website, hosted with github pages and cloudflare! Find more at [henryzimmerman.net](https://henryzimmerman.net), including the dynamic version of the sim below
 
 <img src="/cepheid_sim_landscape_props.png" alt="OGLE-LMC-CEP-1347 Sim" width="60%">
 
