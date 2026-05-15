@@ -5,7 +5,7 @@ I'm Henry, and I love creating logical systems that can help us (somewhat imperf
 - `\lcdb-observing-strategy`: I wasn't sure how many observing nights to ask for, so... I did a statistical analysis!
 - `\andoverecon`: I created a website for the economics club I lead. Learn more about what we do at [andoverecon.org](https://andoverecon.org)
 - `\asteroid-observer`: I had some gaps in my data, so I designed a tool that helps you fill in the gaps in your time-series data, specifically designed for asteroid observing.
-- `\henryzimme.github.io`: I store my favorite writing, my astrophysics research, some cool 3d demos in java, books I've read, and more on my personal website, hosted with github pages and cloudflare!
+- `\henryzimme.github.io`: I store my favorite writing, some of my astrophysics research, some cool 3d demos in `js`, books I've read, and more on my personal website, hosted with github pages and cloudflare!
 
 Find more at [henryzimmerman.net](https://henryzimmerman.net) <!--, including the dynamic version of the sim below-->
 
